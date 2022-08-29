@@ -1,2 +1,8 @@
 
-/project/.idea/*
+/.idea/
+misc.xml
+Project_Default.xml
+modules.xml
+project.iml
+workspace.xml
+/out/
